@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://manishraz32.github.io/ci-cd-learing",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
